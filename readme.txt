@@ -15,11 +15,13 @@ It is versy simple yet pretty plugin. What you have to do is just use our simple
 you will get some cool icons in your website. You can add it in your page, widget or in your theme.
 
 Major Features:
-1. Simple Shortcode
-2. Five Awesome Style
-3. Seven Cool Color Variations
-4. Widget Support
-5. Theme Integration Support 
+1. Simple Shortcode <br>
+2. Five Awesome Style <br>
+3. Seven Cool Color Variations <br>
+4. Widget Support <br>
+5. Theme Integration Support <br>
+
+Plugin Demo : http://www.codycave.com/Plugins/social-icon/
 
 == Installation ==
 

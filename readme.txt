@@ -6,7 +6,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Codycave Social Icon is the most simplest and easy to use social icon ever. With some cool styles and beautiful color variations. 
+<b><i>Codycave Social Icon</i></b> is the most simplest and easy to use social icon ever. With some cool styles and beautiful color variations. 
 
 == Description ==
 
@@ -14,7 +14,7 @@ Codycave Social Icon is a plugin that helps you to add your social links with so
 It is versy simple yet pretty plugin. What you have to do is just use our simplest shortcodes and
 you will get some cool icons in your website. You can add it in your page, widget or in your theme.
 
-Major Features:
+<b>Major Features:</b> <br>
 1. Simple Shortcode <br>
 2. Five Awesome Style <br>
 3. Seven Cool Color Variations <br>
@@ -36,7 +36,7 @@ e.g.
 
 Shortcode Lists:
 
-Square Icon
+<b>Square Icon</b>
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_square"]</pre>
 
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_square_red"]</pre>
@@ -52,7 +52,7 @@ Square Icon
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_square_feroza"]</pre>
 
 
-Social Icon Square (Background on Hover)
+<b>Social Icon Square (Background on Hover)</b>
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_square_noBG"]</pre>
 
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_square_noBG_red"]</pre>
@@ -68,7 +68,7 @@ Social Icon Square (Background on Hover)
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_square_noBG_feroza"]</pre>
 
 
-Rounded Icon
+<b>Rounded Icon</b>
 <pre>[codycave_fa name="wordpress"  url="http://wordpress.com" ]</pre>
 
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_round_red"]</pre>
@@ -84,7 +84,7 @@ Rounded Icon
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_round_feroza"]</pre>
 
 
-No Border Icon
+<b>No Border Icon</b>
 
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_noBorder"]</pre>
 
@@ -101,7 +101,7 @@ No Border Icon
 <pre>[codycave_fa name="android" url="http://wordpress.com" style="codycave_noBorder_feroza"]</pre>
 
 
-Social Icon with Border Radius Background
+<b>Social Icon with Border Radius Background</b>
 
 <pre>[codycave_fa name="wordpress" url="http://wordpress.com" style="codycave_radius"]</pre>
 
@@ -119,7 +119,7 @@ Social Icon with Border Radius Background
 
 
 == Screenshots ==
-
+No Screenshots yet...!
 
 == Changelog ==
 

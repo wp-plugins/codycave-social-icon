@@ -1,0 +1,629 @@
+/*
+....................................................................................
+....................................................................................
+@@@@@@@@@@@@@@@@@@@@ General Styling @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+....................................................................................
+....................................................................................
+*/
+
+
+
+/*
+....................................................................................
+@@@@@@@@@@@@@@@@@@@@ General Styling Ends @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+....................................................................................
+*/
+a.codycave-link {
+	color: #fff !important;
+}
+
+/*
+....................................................................................
+....................................................................................
+@@@@@@@@@@@@@@@@@@@@ Font awesome Styling @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+....................................................................................
+....................................................................................
+*/
+#codycave_round {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #222;
+}
+#codycave_round:hover {
+	background: #222;
+	color: #fff;
+	border:2px solid #222;
+}
+
+/* Red Round */
+#codycave_round_red {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #B0352C;
+}
+#codycave_round_red:hover {
+	background: #B0352C;
+	color: #fff;
+	border:2px solid #B0352C;
+}
+
+/* Green Round */
+#codycave_round_green {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #1A9152;
+}
+#codycave_round_green:hover {
+	background: #1A9152;
+	color: #fff;
+	border:2px solid #1A9152;
+}
+
+/* Yellow Round */
+#codycave_round_yellow {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #D4BB00;
+}
+#codycave_round_yellow:hover {
+	background: #D4BB00;
+	color: #fff;
+	border:2px solid #D4BB00;
+}
+
+/* Orange Round */
+#codycave_round_orange {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #D9691A;
+}
+#codycave_round_orange:hover {
+	background: #D9691A;
+	color: #fff;
+	border:2px solid #D9691A;
+}
+
+/* Sky Round */
+#codycave_round_sky {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #188BC4;
+}
+#codycave_round_sky:hover {
+	background: #188BC4;
+	color: #fff;
+	border:2px solid #188BC4;
+}
+
+/* Firoza Round */
+#codycave_round_feroza {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	border-radius: 50% 50%;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #18C493;
+}
+#codycave_round_feroza:hover {
+	background: #18C493;
+	color: #fff;
+	border:2px solid #18C493;
+}
+/*.............................................................................
+		All Square Button (Font Awesome)
+.............................................................................*/
+
+/* Default Square */
+#codycave_square {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #222;
+}
+#codycave_square:hover {
+	background: #222;
+	color: #fff;
+	border:2px solid #222;
+}
+/* Red Square */
+#codycave_square_red {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #B0352C;
+}
+#codycave_square_red:hover {
+	background: #B0352C;
+	color: #fff;
+	border:2px solid #B0352C;
+}
+
+/* Green Square */
+#codycave_square_green {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #1A9152;
+}
+#codycave_square_green:hover {
+	background: #1A9152;
+	color: #fff;
+	border:2px solid #1A9152;
+}
+
+/* Yellow Square */
+#codycave_square_yellow {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #D4BB00;
+}
+#codycave_square_yellow:hover {
+	background: #D4BB00;
+	color: #fff;
+	border:2px solid #D4BB00;
+}
+
+/* Orange Square */
+#codycave_square_orange {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #D9691A;
+}
+#codycave_square_orange:hover {
+	background: #D9691A;
+	color: #fff;
+	border:2px solid #D9691A;
+}
+
+/* Sky Square */
+#codycave_square_sky {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #188BC4;
+}
+#codycave_square_sky:hover {
+	background: #188BC4;
+	color: #fff;
+	border:2px solid #188BC4;
+}
+
+/* Firoza Square */
+#codycave_square_feroza {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	background: #18C493;
+}
+#codycave_square_feroza:hover {
+	background: #18C493;
+	color: #fff;
+	border:2px solid #18C493;
+}
+/*.............................................................................
+		All Square Background on hover Button (Font Awesome)
+.............................................................................*/
+
+/* Default Square */
+#codycave_square_noBG {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#222;
+}
+#codycave_square_noBG:hover {
+	background: #222;
+	color: #fff;
+	border:2px solid #222;
+}
+/* Red Square */
+#codycave_square_noBG_red {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#B0352C;
+}
+#codycave_square_noBG_red:hover {
+	background: #B0352C;
+	color: #fff;
+	border:2px solid #B0352C;
+}
+
+/* Green Square */
+#codycave_square_noBG_green {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#1A9152;
+}
+#codycave_square_noBG_green:hover {
+	background: #1A9152;
+	color: #fff;
+	border:2px solid #1A9152;
+}
+
+/* Yellow Square */
+#codycave_square_noBG_yellow {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#D4BB00;
+}
+#codycave_square_noBG_yellow:hover {
+	background: #D4BB00;
+	color: #fff;
+	border:2px solid #D4BB00;
+}
+
+/* Orange Square */
+#codycave_square_noBG_orange {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#D9691A;
+}
+#codycave_square_noBG_orange:hover {
+	background: #D9691A;
+	color: #fff;
+	border:2px solid #D9691A;
+}
+
+/* Sky Square */
+#codycave_square_noBG_sky {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#188BC4;
+}
+#codycave_square_noBG_sky:hover {
+	background: #188BC4;
+	color: #fff;
+	border:2px solid #188BC4;
+}
+
+/* Firoza Square */
+#codycave_square_noBG_feroza {
+	width:50px;
+	height:50px;
+	border:2px solid;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color:#18C493;
+}
+#codycave_square_noBG_feroza:hover {
+	background: #18C493;
+	color: #fff;
+	border:2px solid #18C493;
+}
+/*.............................................................................
+		All No border Button (Font Awesome)
+.............................................................................*/
+/* Default noBorder */
+#codycave_noBorder {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder:hover {
+	color:#222;
+}
+/* Red noBorder */
+#codycave_noBorder_red {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder_red:hover {
+	color:#B0352C;
+}
+/* Green noBorder */
+#codycave_noBorder_green {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder_green:hover {
+	color:#1A9152;
+}
+/* Yellow noBorder */
+#codycave_noBorder_yellow {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder_yellow:hover {
+	color:#D4BB00;
+}
+/* Sky noBorder */
+#codycave_noBorder_sky {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder_sky:hover {
+	color:#188BC4;
+}
+/* Orange noBorder */
+#codycave_noBorder_orange {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder_orange:hover {
+	color:#D9691A;
+}
+/* Feroza noBorder */
+#codycave_noBorder_feroza {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #c9c9c9;
+}
+#codycave_noBorder_feroza:hover {
+	color:#18C493;
+}
+/*.............................................................................
+		All Square Radius Button (Font Awesome)
+.............................................................................*/
+/* Default Radius */
+#codycave_radius {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #222;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius:hover {
+	color:#fff;
+	background: #222;
+}
+
+/* Red Radius */
+#codycave_radius_red {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #B0352C;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius_red:hover {
+	color:#fff;
+	background: #B0352C;
+}
+
+/* Green Radius */
+#codycave_radius_green {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #1A9152;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius_green:hover {
+	color:#fff;
+	background: #1A9152;
+}
+
+/* Sky Radius */
+#codycave_radius_sky {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #188BC4;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius_sky:hover {
+	color:#fff;
+	background: #188BC4;
+}
+
+/* Yellow Radius */
+#codycave_radius_yellow {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #D4BB00;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius_yellow:hover {
+	color:#fff;
+	background: #D4BB00;
+}
+
+/* Orange Radius */
+#codycave_radius_orange {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #D9691A;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius_orange:hover {
+	color:#fff;
+	background: #D9691A;
+}
+
+
+/* Feroza Radius */
+#codycave_radius_feroza {
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height: 50px;
+	margin-left: 2px;
+	transition: all 0.3s ease-in;
+	color: #18C493;
+	background: #f0f2f6;
+	border-radius: 4px;
+}
+#codycave_radius_feroza:hover {
+	color:#fff;
+	background: #18C493;
+}
+/*
+....................................................................................
+@@@@@@@@@@@@@@@@@@@@  Font awesome Styling Ends @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+....................................................................................
+*/
+
+/*
+....................................................................................
+....................................................................................
+@@@@@@@@@@@@@@@@@@@@ Foundation Icon Styling @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+....................................................................................
+....................................................................................
+*/
+
+
+
+/*
+....................................................................................
+@@@@@@@@@@@@@@@@@@@@  Foundation Icon Styling Ends @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+....................................................................................
+*/
